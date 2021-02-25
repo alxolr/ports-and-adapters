@@ -1,0 +1,25 @@
+{
+  "name": "ports-and-adapters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alxolr/ports-and-adapters.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alxolr/ports-and-adapters/issues"
+  },
+  "homepage": "https://github.com/alxolr/ports-and-adapters#readme",
+  "devDependencies": {
+    "@types/express": "^4.17.11",
+    "@types/node": "^12.20.4",
+    "typescript": "^4.2.2"
+  }
+}
